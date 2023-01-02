@@ -99,3 +99,9 @@ https://wiki.jenkins.io/display/JENKINS/Amazon+EC2+Container+Service+Plugin
 https://wiki.jenkins.io/display/JENKINS/Artifact+Manager+S3+Plugin
 
 https://wiki.jenkins.io/display/JENKINS/AWS+CodePipeline+Plugin
+
+
+# CodePipeline - Good Blog to Read
+
+I recommend you have a read through this blog!
+https://aws.amazon.com/blogs/devops/implementing-gitflow-using-aws-codepipeline-aws-codecommit-aws-codebuild-and-aws-codedeploy/
