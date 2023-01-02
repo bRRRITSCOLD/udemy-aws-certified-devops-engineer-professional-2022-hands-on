@@ -99,3 +99,20 @@ https://wiki.jenkins.io/display/JENKINS/Amazon+EC2+Container+Service+Plugin
 https://wiki.jenkins.io/display/JENKINS/Artifact+Manager+S3+Plugin
 
 https://wiki.jenkins.io/display/JENKINS/AWS+CodePipeline+Plugin
+
+https://aws.amazon.com/blogs/devops/implementing-gitflow-using-aws-codepipeline-aws-codecommit-aws-codebuild-and-aws-codedeploy/
+
+MUST READ - Blue/Green Deployments on AWS
+https://d1.awsstatic.com/whitepapers/AWS_Blue_Green_Deployments.pdf
+
+RECOMMENDED - Practicing Continuous Integration Continuous Delivery on AWS
+https://d1.awsstatic.com/whitepapers/DevOps/practicing-continuous-integration-continuous-delivery-on-AWS.pdf
+
+RECOMMENDED - Jenkins on AWS
+https://d1.awsstatic.com/whitepapers/DevOps/Jenkins_on_AWS.pdf
+
+OPTIONAL - Introduction to DevOps on AWS
+https://d1.awsstatic.com/whitepapers/AWS_DevOps.pdf
+
+OPTIONAL - Development and Test on AWS
+https://d1.awsstatic.com/whitepapers/aws-development-test-environments.pdf
